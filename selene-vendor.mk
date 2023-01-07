@@ -1597,4 +1597,5 @@ PRODUCT_PACKAGES += \
     manifest_android.hardware.gpu@1.0-service \
     android.hardware.wifi.hostapd \
     manifest_android.hardware.drm@1.3-service.widevine \
+    power-default \
     manifest_vendor.mediatek.hardware.dplanner@2.0-service
